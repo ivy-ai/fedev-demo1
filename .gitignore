@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+.vscode
+.idea
+typings/
+build/
+/tmp
+/npm-debug.log
+/dist
+/.sass-cache
